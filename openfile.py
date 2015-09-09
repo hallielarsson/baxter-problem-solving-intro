@@ -1,2 +1,3 @@
-out = "hello world"
+out = "hello"
+out += "world"
 print(out)
